@@ -27,6 +27,5 @@ The semester project will entail the following:  You need to design a website th
 
 ## Admin Pages
 ![Image 9-14-22 at 1 17 PM](https://user-images.githubusercontent.com/99213631/190221554-5467e4e5-7ebd-4e11-b6b9-d27b3d042a2c.jpg)
-min Pages 
 
 
